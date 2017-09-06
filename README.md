@@ -1,0 +1,2 @@
+# KitDebugBundle
+Symfony Debug Bundle

@@ -1,5 +1,5 @@
 {
-	"name": "kitlabs/kit-pay-bundle",
+	"name": "kitlabs/kit-debug-bundle",
 	"type": "symfony-bundle",
 	"description": "Symfony Debug Command Bundle",
 	"keywords": ["debug bundle","debug command", "debug console"],

@@ -1,0 +1,31 @@
+{
+	"name": "kitlabs/kit-pay-bundle",
+	"type": "symfony-bundle",
+	"description": "Symfony Debug Command Bundle",
+	"keywords": ["debug bundle","debug command", "debug console"],
+	"homepage": "https://github.com/kitlabs-cn/KitDebugBundle",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "lcp0578",
+			"email": "lcp0578@gmail.com",
+			"homepage": "https://github.com/lcp0578"
+		},
+		{
+			"name": "The contributors",
+			"homepage": "https://github.com/kitlabs-cn/KitDebugBundle/contributors"
+		}
+	],
+	"support": {
+		"email": "lcp0578@gmail.com"
+	},
+	"require": {
+		"php": ">=5.5.9",
+		"symfony/console": ">=v3.0"
+	},
+	"autoload": {
+		 "psr-4": {
+            "Kit\\DebugBundle\\": ""
+        }
+	}
+}

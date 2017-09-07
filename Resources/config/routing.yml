@@ -1,0 +1,3 @@
+kit_debug_homepage:
+    path:     /
+    defaults: { _controller: KitDebugBundle:Default:index }
